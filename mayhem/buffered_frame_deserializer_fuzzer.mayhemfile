@@ -1,0 +1,4 @@
+project: PROJECT
+target: buffered_frame_deserializer_fuzzer
+cmds:
+- cmd: /out/buffered_frame_deserializer_fuzzer
